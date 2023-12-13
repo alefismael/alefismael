@@ -5,22 +5,16 @@
 </br>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%C3%A1lef-ismael-80635a246/)
-<hr>
 
 🚀 Habilidades:
-
-<div style= "display: inline_block"><br/>
+</br></br>
     <img align="center" alt="html5" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
     <img align="center" alt="html5" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
     
-</div>
 <hr>
 
 
-<img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=aLefiSmael&show_icons=true&include_all_commits=true&theme=tokyonight" alt="Quadrified's stats" />
+<img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=aLefiSmael&show_icons=true&include_all_commits=true&theme=tokyonight" alt="Quadrified's stats" width="450"/>
 
-<img align="rigth" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=aLefiSmael&layout=compact&theme=tokyonight" alt="Quadrified's stats" />
+<img align="rigth" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=aLefiSmael&layout=compact&theme=tokyonight" alt="Quadrified's stats" width="535"/>
 </br> 
-<div>
-    <p  align="center"> Visitantes: <img align="center" src="https://profile-counter.glitch.me/aLefiSmael/count.svg"/> 
-</div>
