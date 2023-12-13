@@ -1,5 +1,3 @@
-![snake gif](https://github.com/aLefiSmael/aLefiSmael/blob/output/github-contribution-grid-snake-dark.svg)
-
 👋 Olá! Estudo em programação, minha linguagem principal é C, tenho foco principal em BackEnd e estou disposto a aprender o máximo que conseguir.Comecei a programar em 06/2023.
 </br>
 
@@ -35,3 +33,5 @@
 <div>
     <p  align="center"> Visitantes: <img align="center" src="https://profile-counter.glitch.me/aLefiSmael/count.svg"/> 
 </div>
+
+![snake gif](https://github.com/aLefiSmael/aLefiSmael/blob/output/github-contribution-grid-snake-dark.svg)
