@@ -1,4 +1,4 @@
-![snake gif](https://github.com/aLefiSmael/SEU_REPOSITORIO/tree/output/github-contribution-grid-snake-dark.svg)
+![snake gif](https://github.com/aLefiSmael/aLefiSmael/blob/output/github-contribution-grid-snake-dark.svg)
 
 👋 Olá! Estudo em programação, minha linguagem principal é C, tenho foco principal em BackEnd e estou disposto a aprender o máximo que conseguir.Comecei a programar em 06/2023.
 </br>
