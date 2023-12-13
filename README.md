@@ -1,4 +1,4 @@
-👋 Olá! Estudo programação, minha linguagem principal é C, tenho foco principal em BackEnd e estou disposto a aprender o máximo que conseguir.Comecei a programar em 06/2023.
+👋 Olá!Estudo programação, minha linguagem principal é C, tenho foco principal em BackEnd e estou disposto a aprender o máximo que conseguir.Comecei a programar em Julho/2023 com portugol.
 </br>
 
 <div><img align="center" alt="GIF" src="https://github.com/aLefiSmael/aLefiSmael/assets/151590805/763b5dc7-7566-4849-a2f5-a5cb78556266" width="500"/></div>
