@@ -9,13 +9,6 @@
 
 🚀 Habilidades:
 
-
-
-
-
-💻 C | Python
-
-
 <hr>
 
 <div style= "display: inline_block"><br/>
