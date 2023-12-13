@@ -14,7 +14,7 @@
 <hr>
 
 
-<img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=aLefiSmael&show_icons=true&include_all_commits=true&theme=tokyonight" alt="Quadrified's stats" width="350"/>
+<img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=aLefiSmael&show_icons=true&include_all_commits=true&theme=tokyonight" alt="Quadrified's stats" width="370"/>
 
-<img align="rigth" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=aLefiSmael&layout=compact&theme=tokyonight" alt="Quadrified's stats" width="400"/>
+<img align="rigth" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=aLefiSmael&layout=compact&theme=tokyonight" alt="Quadrified's stats" width="440"/>
 </br> 
