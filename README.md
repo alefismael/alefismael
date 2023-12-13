@@ -24,5 +24,3 @@
 <div>
     <p  align="center"> Visitantes: <img align="center" src="https://profile-counter.glitch.me/aLefiSmael/count.svg"/> 
 </div>
-
-![snake gif](https://github.com/aLefiSmael/aLefiSmael/blob/output/github-contribution-grid-snake-dark.svg)
