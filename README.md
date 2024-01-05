@@ -6,7 +6,7 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%C3%A1lef-ismael-80635a246/)
 
-🚀 Habilidades:
+<h1>🚀 Habilidades:</h1>
 
 </br></br>
     <img align="center" alt="c-logo" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" height="40"/>
