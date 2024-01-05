@@ -1,4 +1,4 @@
-👋 Olá!Estudo programação, minha linguagem principal é C, tenho foco em BackEnd no momento e estou disposto a aprender o máximo que conseguir.Comecei a programar em Julho/2023 com portugol.
+👋 Olá!Estudo programação, tenho foco em aprender o máximo que eu conseguir.Comecei a programar em Julho/2023 com portugol.
 </br>
 
 <div><img align="center" alt="GIF" src="https://github.com/aLefiSmael/aLefiSmael/assets/151590805/763b5dc7-7566-4849-a2f5-a5cb78556266" width="500"/></div>
@@ -6,7 +6,7 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%C3%A1lef-ismael-80635a246/)
 
-<h1>🚀 Habilidades:</h1>
+<h1>🚀 Estou estudando:</h1>
 
 </br></br>
     <img align="center" alt="c-logo" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" height="40"/>
