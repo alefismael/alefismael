@@ -7,10 +7,16 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%C3%A1lef-ismael-80635a246/)
 
 🚀 Habilidades:
+
 </br></br>
-    <img align="center" alt="html5" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-    <img align="center" alt="html5" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
-    <img align="center" alt="html5" src="https://github.com/aLefiSmael/aLefiSmael/assets/151590805/c16390ec-f928-426d-87a0-5c236ebf1604)" width="27"/>
+    <img align="center" alt="c-logo" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" height="40"/>
+    <img align="center" alt="python-logo" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" height="40" />
+    <img align="center" alt="sql-logo" src="https://github.com/aLefiSmael/aLefiSmael/assets/151590805/fee89f47-1cde-4994-81ea-718e8d18b83f" width="80" height="80"/>
+    <img align="center" alt="html--logo" src="https://github.com/aLefiSmael/aLefiSmael/assets/151590805/cd57ca19-528b-45f2-8896-41697b47cfb5" width="35" height="40"/>
+    <img align="center" alt="css-logo" src="https://github.com/aLefiSmael/aLefiSmael/assets/151590805/91d834ce-189c-4bc8-9aeb-5651a81ce2e5" width="35" height="40"/>
+    <img align="center" alt="javascript-logo" src="https://github.com/aLefiSmael/aLefiSmael/assets/151590805/d0dca15c-4231-44f8-9a4d-c79e2539eafa" width="35" height="40"/>
+    <img align="center" alt="bootstrap-logo" src="https://github.com/aLefiSmael/aLefiSmael/assets/151590805/d257eed0-966c-4699-b84b-cbbfd0a1c391" width="45" height="40"/>
+    
     
 <hr>
 
