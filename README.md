@@ -18,6 +18,7 @@ Minha HomePage pelo link: https://alefismael.github.io/HomePage_v1.0/
     <img align="center" alt="css-logo" src="https://github.com/aLefiSmael/aLefiSmael/assets/151590805/91d834ce-189c-4bc8-9aeb-5651a81ce2e5" width="35" height="40"/>
     <img align="center" alt="javascript-logo" src="https://github.com/aLefiSmael/aLefiSmael/assets/151590805/d0dca15c-4231-44f8-9a4d-c79e2539eafa" width="35" height="40"/>
     <img align="center" alt="bootstrap-logo" src="https://github.com/aLefiSmael/aLefiSmael/assets/151590805/d257eed0-966c-4699-b84b-cbbfd0a1c391" width="45" height="40"/>
+    <img align="center" alt="flask-logo" src="https://github.com/aLefiSmael/aLefiSmael/assets/151590805/4d49da7d-2f6b-47cb-b796-dd0fc6ed22ef" width="45" height="40"/>
     
     
 <hr>
