@@ -1,6 +1,6 @@
 👋 Olá!Estudo programação, tenho foco em aprender o máximo que eu conseguir.Comecei a programar em Julho/2023 com portugol.
 </br></br>
-Minha HomePage pelo link: https://alefismael.github.io/HomePage_v1.0/
+Acesse minha HomePage pelo link: https://alefismael.github.io/HomePage_v1.0/
 </br></br>
 
 <div><img align="center" alt="GIF" src="https://github.com/aLefiSmael/aLefiSmael/assets/151590805/763b5dc7-7566-4849-a2f5-a5cb78556266" width="500"/></div>
