@@ -13,6 +13,7 @@ Acesse minha HomePage pelo link: https://alefismael.github.io/HomePage_v1.0/
 </br></br>
     <img align="center" alt="c-logo" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" height="40"/>
     <img align="center" alt="python-logo" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" height="40" />
+    <img align="center" alt="php-logo" src="https://github.com/aLefiSmael/aLefiSmael/assets/151590805/55650420-6f47-48d4-a630-92d04750eb5e" height="40" />
     <img align="center" alt="sql-logo" src="https://github.com/aLefiSmael/aLefiSmael/assets/151590805/fee89f47-1cde-4994-81ea-718e8d18b83f" width="80" height="80"/>
     <img align="center" alt="html--logo" src="https://github.com/aLefiSmael/aLefiSmael/assets/151590805/cd57ca19-528b-45f2-8896-41697b47cfb5" width="35" height="40"/>
     <img align="center" alt="css-logo" src="https://github.com/aLefiSmael/aLefiSmael/assets/151590805/91d834ce-189c-4bc8-9aeb-5651a81ce2e5" width="35" height="40"/>
