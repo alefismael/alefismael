@@ -1,4 +1,4 @@
-👋 Olá!Estudo programação, tenho foco em aprender o máximo que eu conseguir.Comecei a programar em Julho/2023 com portugol.
+👋 Olá!Estudo programação, tenho foco em aprender o máximo que eu conseguir.Comecei a programar em Julho/2023 com portugol. Estou no 1º semestre da minha faculdade de Ciência da Computação.
 </br></br>
 Acesse minha HomePage pelo link: https://alefismael.github.io/HomePage_v1.0/
 </br></br>
@@ -8,21 +8,10 @@ Acesse minha HomePage pelo link: https://alefismael.github.io/HomePage_v1.0/
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%C3%A1lef-ismael-80635a246/)
 
-<h1>🚀 Estou estudando:</h1>
+## 🚀 Estou estudando:
 
-</br></br>
-    <img align="center" alt="c-logo" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" height="40"/>
-    <img align="center" alt="java-logo" src="https://github.com/aLefiSmael/aLefiSmael/assets/151590805/4cb72e39-7e13-41ab-94bd-ce16518aae82" height="40"/>
-    <img align="center" alt="python-logo" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" height="40" />
-    <img align="center" alt="php-logo" src="https://github.com/aLefiSmael/aLefiSmael/assets/151590805/55650420-6f47-48d4-a630-92d04750eb5e" height="40" />
-    <img align="center" alt="sql-logo" src="https://github.com/aLefiSmael/aLefiSmael/assets/151590805/fee89f47-1cde-4994-81ea-718e8d18b83f" width="80" height="80"/>
-    <img align="center" alt="html--logo" src="https://github.com/aLefiSmael/aLefiSmael/assets/151590805/cd57ca19-528b-45f2-8896-41697b47cfb5" width="35" height="40"/>
-    <img align="center" alt="css-logo" src="https://github.com/aLefiSmael/aLefiSmael/assets/151590805/91d834ce-189c-4bc8-9aeb-5651a81ce2e5" width="35" height="40"/>
-    <img align="center" alt="javascript-logo" src="https://github.com/aLefiSmael/aLefiSmael/assets/151590805/d0dca15c-4231-44f8-9a4d-c79e2539eafa" width="35" height="40"/>
-    <img align="center" alt="bootstrap-logo" src="https://github.com/aLefiSmael/aLefiSmael/assets/151590805/d257eed0-966c-4699-b84b-cbbfd0a1c391" width="45" height="40"/>
-    <img align="center" alt="flask-logo" src="https://github.com/aLefiSmael/aLefiSmael/assets/151590805/4d49da7d-2f6b-47cb-b796-dd0fc6ed22ef" width="45" height="40"/>
-    
-    
+- Back End em Java
+</br></br>  
 <hr>
 
 
