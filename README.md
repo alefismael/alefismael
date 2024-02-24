@@ -18,11 +18,5 @@ estou participando do programa Impulsionar Bolsas Udemy da South System (Back En
 - Testes unitários em Java (Domine JUnit 4, Mockito e TDD)
 
 <hr>
-
-<div align="center">
   
 <img src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=aLefiSmael&layout=compact&theme=tokyonight" alt="Quadrified's stats"  width="40%"/>
-
-</div>
-
-</br> 
