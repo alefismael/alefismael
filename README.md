@@ -21,7 +21,7 @@ estou participando do programa Impulsionar Bolsas Udemy da South System (Back En
 
 <div align="center">
   
-<img src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=aLefiSmael&layout=compact&theme=tokyonight" alt="Quadrified's stats" width="100%" height="400px"/>
+<img src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=aLefiSmael&layout=compact&theme=tokyonight" alt="Quadrified's stats"  width="100%"/>
 
 </div>
 
@@ -29,6 +29,6 @@ estou participando do programa Impulsionar Bolsas Udemy da South System (Back En
 
 <div align="center">
   
-<div><img alt="GIF" src="https://github.com/aLefiSmael/aLefiSmael/assets/151590805/763b5dc7-7566-4849-a2f5-a5cb78556266" width="85%" height="100%"/></div>
+<img alt="GIF" src="https://github.com/aLefiSmael/aLefiSmael/assets/151590805/763b5dc7-7566-4849-a2f5-a5cb78556266" width="100%"/>
 
 </div>
