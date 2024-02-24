@@ -21,7 +21,7 @@ estou participando do programa Impulsionar Bolsas Udemy da South System (Back En
 
 <div align="center">
   
-<img src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=aLefiSmael&layout=compact&theme=tokyonight" alt="Quadrified's stats" width="80%" height="80%"/>
+<img src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=aLefiSmael&layout=compact&theme=tokyonight" alt="Quadrified's stats" width="100%" height="70%"/>
 
 </div>
 </br> 
