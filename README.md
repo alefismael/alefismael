@@ -1,8 +1,8 @@
 **👋 Olá! Estudo programação, tenho foco em aprender o máximo que eu conseguir. Comecei a programar em Julho/2023 com portugol. Estou no 1º semestre da minha faculdade de Ciência da Computação e 
 estou participando do programa Impulsionar Bolsas Udemy da South System (Back End).**
 </br></br>
-- Acesse minha HomePage: https://alefismael.github.io/homepage
-- Acesse meu LinkedIn: https://linkedin.com/in/álef-ismael-80635a246
+- [HomePage](https://alefismael.github.io/homepage)
+- [LinkedIn](https://linkedin.com/in/álef-ismael-80635a246)
 
 ### 🤓 Meus conhecimentos:
 - C
