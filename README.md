@@ -19,7 +19,7 @@ estou participando do programa Impulsionar Bolsas Udemy da South System (Back En
 ### 🕮 Estou estudando:
 
 - Java
-- Testes unitários em Java (Domine JUnit 4, Mockito e TDD)
+- Testes unitários em Java
 
 ---
   
