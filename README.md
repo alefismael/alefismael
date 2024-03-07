@@ -23,4 +23,4 @@ estou participando do programa Impulsionar Bolsas Udemy da South System (Back En
 
 ---
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alefismael)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alefismael\&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
