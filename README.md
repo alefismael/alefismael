@@ -1,5 +1,5 @@
 **👋 Olá! Estudo programação, tenho foco em aprender o máximo que eu conseguir. Comecei a programar em Julho/2023 com portugol. Estou no 1º semestre da minha faculdade de Ciência da Computação e 
-focado em me tornar um Desenvolvedor FullStack Java.**
+focado em me tornar um Desenvolvedor Web FullStack.**
 
 - [HomePage](https://alefismael.github.io/homepage)
 - [LinkedIn](https://linkedin.com/in/álef-ismael-80635a246)
@@ -8,6 +8,7 @@ focado em me tornar um Desenvolvedor FullStack Java.**
 
 ### 🤓 Meus conhecimentos:
 - C
+- C#
 - Python
 - Html
 - Css
@@ -18,6 +19,8 @@ focado em me tornar um Desenvolvedor FullStack Java.**
 
 ### 🕮 Estou estudando:
 
+- C#
+- .NET
 - Java
 - Testes unitários
 - SpringBoot
