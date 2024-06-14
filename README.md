@@ -9,11 +9,14 @@ focado em me tornar um Desenvolvedor Web FullStack.**
 ### 🤓 Meus conhecimentos:
 - C
 - C#
+- Java
+- Javascript
 - Python
 - Html
 - Css
-- Javascript
-- Bootstrap
+- SQL
+- Teste unitários
+- REST API's
 
 ---
 
@@ -21,10 +24,23 @@ focado em me tornar um Desenvolvedor Web FullStack.**
 
 - C#
 - .NET
-- Java
+- ASP.NET CORE
+- Blazor
+- Entity Framework
 - Testes unitários
 - SpringBoot
 - REST API's
+
+---
+
+### ❤️ Sobre mim :
+
+- 🙏 Cristão
+- ⚽ Futebol
+- 🎮 Jogos
+- ♟️ Xadrez
+- 🥁 Bateria
+- 🎵 Eletrônica
 
 ---
   
