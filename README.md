@@ -17,6 +17,7 @@ focado em me tornar um Desenvolvedor Web FullStack.**
 - SQL
 - Teste unitários
 - REST API's
+- SpringBoot
 
 ---
 
@@ -28,7 +29,6 @@ focado em me tornar um Desenvolvedor Web FullStack.**
 - Blazor
 - Entity Framework
 - Testes unitários
-- SpringBoot
 - REST API's
 
 ---
