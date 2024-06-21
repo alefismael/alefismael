@@ -26,9 +26,7 @@ focado em me tornar um Desenvolvedor Web FullStack.**
 - C#
 - .NET
 - ASP.NET CORE
-- Blazor
 - Entity Framework
-- Testes unitários
 - REST API's
 
 ---
