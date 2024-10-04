@@ -1,23 +1,8 @@
 **👋 Olá! Estudo programação, tenho foco em aprender o máximo que eu conseguir. Comecei a programar em Julho/2023 com portugol. Estou no 2º semestre da minha faculdade de Ciência da Computação e 
-focado em me tornar um Desenvolvedor Web FullStack.**
+focado em me tornar um Desenvolvedor Web.**
 
 - [HomePage](https://alefismael.github.io/homepage)
 - [LinkedIn](https://linkedin.com/in/álef-ismael-80635a246)
-
----
-
-### 🤓 Meus conhecimentos:
-- C
-- C#
-- Java
-- Javascript
-- Python
-- Html
-- Css
-- SQL
-- Teste unitários
-- REST API's
-- SpringBoot
 
 ---
 
@@ -28,12 +13,18 @@ focado em me tornar um Desenvolvedor Web FullStack.**
 - ASP.NET CORE
 - Entity Framework
 - REST API's
+- Html
+- Css
+- JavaScript
+- Http
 
 ---
 
 ### ❤️ Sobre mim :
 
 - 🙏 Cristão
+- 💼 Suporte TI
+- 📚 Ciência da Computação
 - ⚽ Futebol
 - 🎮 Jogos
 - ♟️ Xadrez
