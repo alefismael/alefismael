@@ -8,10 +8,8 @@ focado em me tornar um Desenvolvedor Web.**
 
 ### 🕮 Estou estudando:
 
-- C#
-- .NET
-- ASP.NET CORE
-- Entity Framework
+- Java
+- Spring Boot
 - REST API's
 - Html
 - Css
