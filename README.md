@@ -1,4 +1,4 @@
-**👋 Olá! Estudo programação, tenho foco em aprender o máximo que eu conseguir. Comecei a programar em Julho/2023 com portugol. Estou no 2º semestre da minha faculdade de Ciência da Computação e 
+**👋 Olá! Estudo programação, tenho foco em aprender o máximo que eu conseguir. Comecei a programar em Julho/2023 com portugol. Estou no 3º semestre da minha faculdade de Ciência da Computação e 
 focado em me tornar um Desenvolvedor Web.**
 
 - [HomePage](https://alefismael.github.io/homepage)
