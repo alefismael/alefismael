@@ -21,7 +21,7 @@ focado em me tornar um Desenvolvedor Web.**
 ### ❤️ Sobre mim :
 
 - 🙏 Cristão
-- 💼 Suporte TI
+- 💼 Analista Sistemas
 - 📚 Ciência da Computação
 - ⚽ Futebol
 - 🎮 Jogos
