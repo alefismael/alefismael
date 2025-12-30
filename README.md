@@ -28,7 +28,3 @@ focado em me tornar um Desenvolvedor Web.**
 - ♟️ Xadrez
 - 🥁 Bateria
 - 🎵 Eletrônica
-
----
-  
-![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/languages?username=alefismael&theme=github)
