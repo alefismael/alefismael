@@ -31,4 +31,4 @@ focado em me tornar um Desenvolvedor Web.**
 
 ---
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alefismael\&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/languages?username=alefismael&theme=github)
