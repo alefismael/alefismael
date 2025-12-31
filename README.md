@@ -28,3 +28,5 @@ focado em me tornar um Desenvolvedor Web.**
 - ♟️ Xadrez
 - 🥁 Bateria
 - 🎵 Eletrônica
+
+![Linguagens mais usadas](github-readme-stats.vercel.app)
