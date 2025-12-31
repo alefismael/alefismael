@@ -29,4 +29,5 @@ focado em me tornar um Desenvolvedor Web.**
 - 🥁 Bateria
 - 🎵 Eletrônica
 
-![Linguagens mais usadas](github-readme-stats.vercel.app)
+### 📊 Minhas Estatísticas:
+![Linguagens mais usadas](github-readme-stats-eight-theta.vercel.app)
