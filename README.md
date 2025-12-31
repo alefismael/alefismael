@@ -30,4 +30,4 @@ focado em me tornar um Desenvolvedor Web.**
 - 🎵 Eletrônica
 
 ### 📊 Minhas Estatísticas:
-![Linguagens mais usadas](github-readme-stats-eight-theta.vercel.app)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alefismael&theme=dark&hide_border=false&hide=shell,hlsl,shaderlab,glsl,qml,lua&langs_count=20" />
