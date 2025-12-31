@@ -30,4 +30,4 @@ focado em me tornar um Desenvolvedor Web.**
 - 🎵 Eletrônica
 
 ### 📊 Minhas Estatísticas:
-![Linguagens de Alef](github-profile-summary-cards.vercel.app)
+![Linguagens de Alef Ismael](github-profile-summary-cards.vercel.app)
